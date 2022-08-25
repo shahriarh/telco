@@ -104,7 +104,6 @@
                             <script async defer src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap"
                                     type="text/javascript"></script>
                         </div>
-                        <input type="submit" class="btn btn-primary">
                     </form>
                 </div>    
             </div>
